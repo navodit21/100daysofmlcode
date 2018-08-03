@@ -16,7 +16,8 @@
 
 ### Day 2 : AUGUST 3 , 2018
  **Today's Progress** : data science
- - [DAT101x Lab 3 - Statistical Analysis.pdf]( Statistical Analysis.pdf)
+  - [Hello World In ML](TensorFlow_Basics.ipynb)
+ - [DAT101x Lab 3 - Statistical Analysis.pdf](Statistical Analysis.pdf)
 
 
 
