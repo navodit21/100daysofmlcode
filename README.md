@@ -14,6 +14,10 @@
  **Today's Progress** : TensorFlow Basics.
  - [Hello World In ML](TensorFlow_Basics.ipynb)
 
+### Day 2 : AUGUST 3 , 2018
+ **Today's Progress** : data science
+ - 100daysofmlcode/DAT101x Lab 3 - (Statistical Analysis.pdf)
+
 
 
 
